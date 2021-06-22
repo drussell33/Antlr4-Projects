@@ -1,0 +1,45 @@
+.message {
+    /* background-color: rgb(223, 56, 97);  */
+    width: max-content;
+    
+}
+
+.request {
+    background-color: rgb(250, 230, 175);
+    width: max-content;
+    
+}
+
+.response {
+    background-color: rgb(131, 187, 110);
+    width: max-content;
+    
+}
+
+.status-line {
+    border-bottom: 2px solid rgba(0,0,0,0.452);
+}
+
+.request-line {
+    border-bottom: 2px solid rgba(0, 0, 255, 0.452);
+}
+
+.method {
+    color: rgb(119, 147, 238);
+}
+
+.request-target {
+    color: rgb(69, 121, 16);
+}
+
+.status-code {
+    color: rgb(117, 38, 28);
+}
+
+.key {
+    color: rgb(97, 7, 133);
+}
+
+.value {
+    color: rgb(41, 105, 165);
+}

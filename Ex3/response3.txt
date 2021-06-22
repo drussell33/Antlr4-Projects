@@ -1,0 +1,18 @@
+HTTP/2 200 OK
+date: Sat, 14 Nov 2020 04:32:51 GMT
+content-type: text/html; charset=UTF-8
+vary: Accept-Encoding
+link: <https://tomassetti.me/wp-json/>; rel="https://api.w.org/"
+link: <https://tomassetti.me/wp-json/wp/v2/posts/2989>; rel="alternate"; type="application/json"
+x-kinsta-cache: EXPIRED
+x-edge-location-klb: GFx3kDBRp1yjKCOvQMlt8E5Icda1b27a0b387ec8caced56e6cc7fb86
+cf-cache-status: DYNAMIC
+cf-request-id: 0666a010920000fda5ed06f000000001
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=v0cYQQB6%2FmELwL%2FBNFa3bTOv7knnRURUaHt83cJTIcncvFjy2jsUxMTEgiF3dOIF%2BASW95RTfCtgQN5FFn%2B0VULmV1Y2vwbBvkuuvgrVd2P5AVhcnW3%2FhH6l"}],"group":"cf-nel","max_age":604800}
+nel: {"report_to":"cf-nel","max_age":604800}
+server: cloudflare
+cf-ray: 5f1e02c74ca2fda5-PDX
+content-encoding: br
+X-Firefox-Spdy: h2
+

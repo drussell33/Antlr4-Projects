@@ -1,0 +1,10 @@
+GET /jquery.getjson/ HTTP/2
+Host: api.jquery.com
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:83.0) Gecko/20100101 Firefox/83.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Cookie: __utma=160157602.167555107.1602134421.1602134421.1602134421.1; __utmz=160157602.1602134421.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); __cfduid=d4b7d9e3ce9b7e4a05eed74aef5f5800e1604992731
+Upgrade-Insecure-Requests: 1
+

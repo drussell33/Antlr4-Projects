@@ -1,0 +1,10 @@
+GET /antlr-mega-tutorial/ HTTP/2
+Host: tomassetti.me
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:83.0) Gecko/20100101 Firefox/83.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Cookie: __cfduid=dfb07c6ed663d05c92f4ccd4307b5f21d1603724109; tlf_32=1; cookielawinfo-checkbox-necessary=yes; cookielawinfo-checkbox-non-necessary=yes; _ga=GA1.2.1922082761.1603724113; _ck_form=%7B%22341333%22%3A%7B%22shown%22%3A%222020-10-26T14%3A55%3A13.361Z%22%7D%7D; tve_leads_unique=1; tl_4246_4250_32=a%3A1%3A%7Bs%3A6%3A%22log_id%22%3BN%3B%7D; tl_4834_4834_135=a%3A1%3A%7Bs%3A6%3A%22log_id%22%3BN%3B%7D; tl_4013_4013_20=a%3A1%3A%7Bs%3A6%3A%22log_id%22%3BN%3B%7D; tl_4015_4015_22=a%3A1%3A%7Bs%3A6%3A%22log_id%22%3BN%3B%7D; CookieLawInfoConsent=eyJuZWNlc3NhcnkiOnRydWUsIm5vbi1uZWNlc3NhcnkiOnRydWV9; viewed_cookie_policy=yes
+Upgrade-Insecure-Requests: 1
+
